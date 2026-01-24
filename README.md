@@ -15,7 +15,7 @@ Join our Discord server for updates, support and discussion:<br>
 ![Latest Release](https://img.shields.io/gitea/v/release/erffy/zig-sysinfo?gitea_url=https%3A%2F%2Fcodeberg.org&display_name=release&style=for-the-badge&label=release)
 ![Latest Pre-release](https://img.shields.io/gitea/v/release/erffy/zig-sysinfo?gitea_url=https%3A%2F%2Fcodeberg.org&include_prereleases&display_name=release&style=for-the-badge&label=pre-release)
 
-Full API documentation and usage details can be found in the [Wiki](./WIKI.md).
+Full API documentation and usage details can be found in the [Wiki](https://codeberg.org/erffy/zig-sysinfo/src/branch/0.16.x/WIKI.md).
 
 #### Projects using this library
 - **[zig-waybar-contrib](https://codeberg.org/erffy/zig-waybar-contrib):** High-performance Waybar modules written in Zig for efficient system monitoring
